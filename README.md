@@ -6,7 +6,7 @@
 
 - 👯 I’m looking for projects related to **web development**
 
-- 💻 All of my projects can be found [here](https://genesis331.github.io/#/projects)
+- 💻 All of my projects can be found [here](https://genesis331.github.io/)
 
 - 💬 Ask me about **HTML/CSS, NodeJS, ReactJS, TensorflowJS, Flutter**
 
