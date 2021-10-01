@@ -2,13 +2,13 @@
 <h5 align="center">
 <h1 align="center">Hi, I'm Zixu Cheah <img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif" width="32" height="32"/></h1>
 
-- 🔭 I’m currently studying in **Penang, Malaysia**
+- 🔭 I’m currently studying in **Perak, Malaysia**
 
 - 👯 I’m looking for projects related to **web development**
 
 - 💻 All of my projects can be found [here](https://genesis331.github.io/)
 
-- 💬 Ask me about **HTML/CSS, NodeJS, ReactJS, TensorflowJS, Flutter**
+- 💬 Ask me about **HTML/CSS, NodeJS, ReactJS, Gatsby, TensorflowJS, Flutter, React Native**
 
 - 📫 Reach me at **zixucheah331@outlook.com**
 
