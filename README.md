@@ -1,16 +1,12 @@
 <div style="text-align: center;">
 <h5 align="center">
-<h1 align="center">Hi, I'm Zixu Cheah <img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif" width="32" height="32"/></h1>
+<h1 align="center">Hello, I'm Cheah Zixu <img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif" width="32" height="32"/></h1>
 
 - 🔭 I’m currently studying in **Selangor, Malaysia**
 
-- 👯 I’m looking for projects related to **web development** & **cloud**
+- 💻 All of my projects can be found [here](https://zixucheah331.net/works)
 
-- 💻 All of my projects can be found [here](https://github.com/genesis331/)
-
-- 💬 Ask me about **HTML/CSS + JS, NodeJS, ReactJS, Gatsby, TensorflowJS, Flutter**
-
-- 📫 Reach me at **zixucheah331@outlook.com**
+- 📫 Reach me at **hello@zixucheah331.net**
 
 <br/>
 <p align="center">
